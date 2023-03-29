@@ -1,2 +1,2 @@
 # SQL-MURDER-MYSTERY
-Interesting investigative game
+Interesting investigative exercise
